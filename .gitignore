@@ -1,0 +1,2 @@
+# Dont upload iso files for os
+*.iso
